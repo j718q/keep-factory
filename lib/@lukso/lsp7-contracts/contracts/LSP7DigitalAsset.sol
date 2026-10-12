@@ -678,7 +678,7 @@ abstract contract LSP7DigitalAsset is
      * - {OperatorAuthorizationChanged} event when operator's allowance is set to any other amount.
      *
      * @custom:requirements
-     * - The `amountToSpend` MUST be at least the allowance granted to `operator` (accessible via {`authorizedAmountFor`})
+     * - The `amountToSpend` MUST be at least the allowance granted to `operator` (accessible via {`authorizedAmountFor}`)
      * - `operator` cannot be the zero address.
      * - `operator` cannot be the same address as `tokenOwner`.
      */
