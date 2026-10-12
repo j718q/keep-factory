@@ -1,8 +1,8 @@
-@erc725/smart-contracts-v8/=lib/@erc725/smart-contracts-v8/
-@erc725/smart-contracts/=lib/@erc725/smart-contracts/
-@lukso/lsp1-contracts/=lib/@lukso/lsp1-contracts/
-@lukso/lsp17contractextension-contracts/=lib/@lukso/lsp17contractextension-contracts/
-@lukso/lsp2-contracts/=lib/@lukso/lsp2-contracts/
-@lukso/lsp4-contracts/=lib/@lukso/lsp4-contracts/
-@lukso/lsp7-contracts/=lib/@lukso/lsp7-contracts/
-@openzeppelin/contracts/=lib/@openzeppelin/contracts/
+@erc725/smart-contracts-v8/=lib/erc725/smart-contracts-v8/
+@erc725/smart-contracts/=lib/erc725/smart-contracts/
+@lukso/lsp1-contracts/=lib/lukso/lsp1-contracts/
+@lukso/lsp17contractextension-contracts/=lib/lukso/lsp17contractextension-contracts/
+@lukso/lsp2-contracts/=lib/lukso/lsp2-contracts/
+@lukso/lsp4-contracts/=lib/lukso/lsp4-contracts/
+@lukso/lsp7-contracts/=lib/lukso/lsp7-contracts/
+@openzeppelin/contracts/=lib/openzeppelin/contracts/
